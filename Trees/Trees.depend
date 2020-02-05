@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1552441276 source:c:\users\nik_g\onedrive\documents\study code\trees\main.cpp
+	<iostream>
+	"Tree.h"
+	"Avltree.h"
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<vector>
+	<cstdlib>
+	<chrono>
+	<windows.h>
+	<bits/stdc++.h>
+	<sys/time.h>
+	<stdexcept>
+	<fstream>
+
+1552440278 c:\users\nik_g\onedrive\documents\study code\trees\include\tree.h
+	<iostream>
+
+1580403547 c:\users\nik_g\onedrive\documents\study code\trees\include\avltree.h
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<vector>
+	<cstdlib>
+	<chrono>
+	<windows.h>
+	<bits/stdc++.h>
+	<sys/time.h>
+	<stdexcept>
+	<iostream>
+
+1550256087 source:c:\users\nik_g\onedrive\documents\study code\trees\src\avltree.cpp
+
+1550256087 source:c:\users\nik_g\onedrive\documents\study code\trees\src\tree.cpp
+
